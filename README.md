@@ -29,8 +29,8 @@ Industries such as finance, healthcare, education, logistics, and e-commerce hav
 
 In conclusion, automated report generation transforms how businesses handle data and reporting. By reducing manual effort, increasing accuracy, and enabling data-driven insights, it empowers organizations to operate more efficiently and strategically in a competitive environment. As data continues to grow in importance, the role of automation in reporting will only become more central to business success.
 
-
-
+## OUTPUT:
+![Image](https://github.com/user-attachments/assets/16439b75-00a7-401a-843f-c521fa9fece3)
 
 
 
